@@ -31,7 +31,7 @@ File: Navigation CSS
 #column .subnav li{margin:0 0 3px 0; padding:0;}
 #column .subnav ul ul, #column .subnav ul ul ul, #column .subnav ul ul ul ul, #column .subnav ul ul ul ul ul{border-top:none; padding-top:0;}
 #column .subnav a{display:block; margin:0; padding:5px 10px 5px 20px; color:#666666; background-image:url("images/lime_file.gif"); background-position:10px center; background-repeat:no-repeat; background-color:#161616; text-decoration:none; border-bottom:1px dotted #666666;}
-#column .subnav a:hover{color:#99CC00; background-color:#161616;}
+#column .subnav a:hover{color:#055dea; background-color:#161616;}
 #column .subnav ul ul a, #column .subnav ul ul ul a, #column .subnav ul ul ul ul a, #column .subnav ul ul ul ul ul a{background:url("images/black_file.gif") no-repeat #161616;}
 #column .subnav ul ul a{padding-left:40px; background-position:30px center;}
 #column .subnav ul ul ul a{padding-left:50px; background-position:40px center;}
