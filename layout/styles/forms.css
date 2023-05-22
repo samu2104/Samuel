@@ -14,7 +14,7 @@ legend{display:none;}
 /* ----------------------------------------------Search Form------------------------------------- */
 
 #topbar #search{display:block; float:right;}
-#topbar input{display:block; float:left; width:229px; margin:0 5px 0 0; padding:5px; color:#333333; background-color:#000000; border:1px solid #272727; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
+#topbar input{display:block; float:left; width:229px; margin:0 5px 0 0; padding:5px; color:#b11f1f; background-color:#963939; border:1px solid #272727; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;}
 #topbar input#go{width:auto; height:auto; margin:0; padding:4px;}
 
 /* ----------------------------------------------Forms in Content Area------------------------------------- */
