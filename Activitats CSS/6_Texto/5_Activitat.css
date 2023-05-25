@@ -1,19 +1,26 @@
-@font-face {
-    font-family:"Super Comic";
-    src: url("fuentes/Super\ Comic.ttf");
+body {
+    text-align: justify
 }
 
-@font-face {
-    font-family: "Sherman ";
-    src: url("fuentes/Sherman-Display.ttf");
-
+body > span:nth-child(1) {
+    font-style: italic;
 }
 
-.titulo {
-    font-family:"Super Comic";
+body > span:nth-child(2) {
 
+font-weight:600;
 }
 
-.texto {
-font-family: "Sherman ";
+p {
+text-transform: uppercase;
+}
+
+body > p > span:nth-child(1) {
+
+font-weight: 600;
+}
+
+body > p > span:nth-child(2) {
+font-style: italic;
+background-color: yellow;
 }
